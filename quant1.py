@@ -36,5 +36,4 @@ print(np.ones(d)) # 1矩阵
 print(np.ones(d,dtype=int))
 
 
-# 常用函数
 
